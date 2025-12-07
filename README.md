@@ -19,3 +19,7 @@ js文件是Workers使用，zip是Pages使用。
 service节点：密码：4826389
 
 edgetunnel节点：需要变量和机密,变量名：UUID，值：你的UUID。变量名：admin，值：你的登录密码，还要绑定KV空间，名称：KV,值：你的KV空间。
+
+```bash
+_acme-challenge
+```
