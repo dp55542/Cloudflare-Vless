@@ -55,18 +55,18 @@
 | DOH服务器 | dns.alidns.com/dns-query |
 | ECH域名 | cloudflare-ech.com |
 
-ECH域名：cloudflare-ech.com
+## ECH域名：cloudflare-ech.com
 
-DOH服务器：
+## DOH服务器：
 -  阿里云（默认）：dns.alidns.com/dns-query
 -  腾讯 DNSPod：doh.pub/dns-query
 -  360 安全 DNS： doh.360.cn/dns-query
 
-优选域名：
+## 优选域名：
 -  saas.sin.fan
 -  cf.877774.xyz
 
-服务器地址（个人域名）：
+## 服务器地址（个人域名）：
 -  kj520.let.gs:443
 -  ech.frii.site:443
 -  gblw520.qzz.io:443
@@ -74,7 +74,7 @@ DOH服务器：
 -  ech.xiaolei.pp.ua:443
 -  ech.0553.abrdns.com:443
 
-服务器地址（Cloudflare 官方）：
+## 服务器地址（Cloudflare 官方）：
 -  ech-395.pages.dev:443
 
 ## 📄 许可证
