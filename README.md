@@ -62,6 +62,10 @@ DOH服务器：
 -  腾讯 DNSPod：doh.pub/dns-query
 -  360 安全 DNS： doh.360.cn/dns-query
 
+优选域名：
+-  saas.sin.fan
+-  cf.877774.xyz
+
 ## 📄 许可证
 
 ```bash
