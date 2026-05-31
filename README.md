@@ -66,7 +66,7 @@ DOH服务器：
 -  saas.sin.fan
 -  cf.877774.xyz
 
-个人域名：
+服务器地址（个人域名）：
 -  kj520.let.gs:443
 -  ech.frii.site:443
 -  gblw520.qzz.io:443
@@ -75,7 +75,7 @@ DOH服务器：
 -  ech.xiaolei.pp.ua:443
 -  ech.0553.abrdns.com:443
 
-本人搭建的地址：
+服务器地址（Cloudflare 官方）：
 -  ech-395.pages.dev:443
 
 ## 📄 许可证
