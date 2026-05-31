@@ -71,7 +71,6 @@ DOH服务器：
 -  ech.frii.site:443
 -  gblw520.qzz.io:443
 -  ech9527.sylu.cc:443
--  ech2.dy520.eu.cc:443
 -  ech.xiaolei.pp.ua:443
 -  ech.0553.abrdns.com:443
 
